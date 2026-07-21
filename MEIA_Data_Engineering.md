@@ -1,4 +1,4 @@
-# MEIA Data Engineering (Master Thesis)
+# MEIA Data Preprocessing (Master Thesis)
 
 **Author:** Bikram Kumar Singh
 **Date:** 2026-07-21
